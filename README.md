@@ -12,4 +12,7 @@ Humans as Mobile Network Nodes. Evidence.
 4) FORENSIC AND LEGAL ANALYSIS. Use of Infected IoT and Mobile Devices as “Mobile Nodes” in Public and Government Facilities
 United States Legal, Technical, and Investigative Perspective
 
-5) 
+5) Part 3 — Shadow AI in Blockchain: Golden Dragon Technology from the Cold War Era. Historical Prelude: From the Cold War to Modern Electromagnetic Cyber Operations
+
+6) Part IV. Shadow Artificial Intelligence in Blockchain:
+Evolution of Golden Dragon 2026 Technology. Investigation of Artificial Intelligence Risks for Civilization
