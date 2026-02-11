@@ -9,3 +9,7 @@ BLEIOT — a scientific and technical startup and research center for BLE, IoT, 
 3) Shadow AI in Blockchain — Part2: Botnet Infrastructure:
 Humans as Mobile Network Nodes. Evidence.
 
+4) FORENSIC AND LEGAL ANALYSIS. Use of Infected IoT and Mobile Devices as “Mobile Nodes” in Public and Government Facilities
+United States Legal, Technical, and Investigative Perspective
+
+5) 
