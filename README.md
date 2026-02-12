@@ -20,7 +20,7 @@ BLEIOT presents a **step-by-step guide to investigating decentralized AI mesh in
 
 ---
 
-## 1️⃣ How to Understand the Conceptual Model of Decentralized AI Mesh Infrastructure ⚡  
+## 1️⃣ [How to Understand the Conceptual Model of Decentralized AI Mesh Infrastructure ⚡](https://github.com/AndriiKempa/BLEIOT/discussions/10)
 
 Learn the **foundational architecture** of Shadow AI networks.  
 - Explore **node interconnectivity**, mesh orchestration, and cognitive influence layers. 🧠  
