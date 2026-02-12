@@ -28,7 +28,7 @@ Learn the **foundational architecture** of Shadow AI networks.
 
 ---
 
-## 2️⃣ How to Discover Field Observations and Environmental Signal Patterns 🔍  
+## 2️⃣ [How to Discover Field Observations and Environmental Signal Patterns 🔍](https://github.com/AndriiKempa/BLEIOT/discussions/11)
 
 Step-by-step methodology to **collect and analyze environmental data**:  
 - Detect **BLE and IoT anomalies** in public spaces. 📶  
