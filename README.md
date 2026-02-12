@@ -1,4 +1,4 @@
-# #️⃣ How to Explore BLEIOT Research: Shadow AI Mesh Operations ⚡
+# 1️⃣ Covert Blockchain Mining Through Infected Mobile Devices and IoT Infrastructure.⚡ How a Zero-Electricity-Cost Model Could Work and How to Identify the Security Risks
 
 **Scientific & Technical Research Initiative in BLE, IoT, Embedded Systems, and Hardware Security** 🛰️🔬  
 
