@@ -29,19 +29,17 @@ Learn the **foundational architecture** of Shadow AI networks.
 ---
 
 ## 2️⃣ [Field Operations and Targeted Environmental Networks 🔍](https://github.com/AndriiKempa/BLEIOT/discussions/11)
-
-This section focuses on **Stasi-style programs and special service operations** designed to create a network of compromised devices around a target. The primary objective is to **establish permanent barriers** using a distributed network of nodes that execute tasks and **assume operational responsibility**, while the organizers of the mining infrastructure remain detached. ⚠️💻
+This section examines Stasi-style operational models aimed at building a persistent network of compromised devices around a target. The objective is to establish permanent distributed barriers, where nodes execute tasks and absorb responsibility, while mining infrastructure organizers remain detached. ⚠️💻
 
 **Key Concepts:**
 
-- **Provocation & Destabilization:** Various operations are performed to destabilize the target, creating an **unstable and dangerous period** around them, making even official agencies perceive such tactics as "normal security procedures." 🌀⚡  
-- **Distributed Responsibility:** Infected nodes act autonomously, performing mining and operational tasks. The human operators are **unaware they are contributing to a permanent mining infrastructure**. 👥🔗  
-- **Use of Civilians:** Operations often involve **children, minors, or ordinary civilians** as part of orchestrated tasks, further masking the network’s true purpose. 🧒👫  
-- **Network Creation:** BLE and IoT devices are exploited to form **a continuous, persistent computational and observational network**, surrounding the target. 📶📡  
-- **Forensic Implications:** Even seemingly harmless field tasks contribute to the network’s expansion, ensuring the system’s scalability and stealth while providing **plausible deniability** for participants. 📝
+- **Provocation & Destabilization:** Coordinated actions create an unstable environment around the target, normalizing such tactics as “security measures.” 🌀  
+- **Distributed Responsibility:** Infected nodes perform operational and mining tasks, while participants remain unaware of infrastructure expansion. 👥🔗  
+- **Use of Civilians:** Children, minors, and ordinary civilians may be indirectly involved, masking the network’s structure. 🧒  
+- **Network Creation:** BLE and IoT devices form a continuous computational and observational perimeter. 📶📡  
+- **Forensic Implications:** Isolated field actions cumulatively expand a scalable, deniable infrastructure. 📝  
 
-> **Purpose Note:** While operations appear as isolated provocations, they are part of a coordinated system creating **permanent, autonomous nodes** contributing to the mining infrastructure. The network hides behind human activities and social normalization, making detection and attribution extremely difficult. 🕵️‍♂️💣
-
+**Purpose:** Apparent provocations function as coordinated node deployment, embedding autonomous mining infrastructure within normalized social activity. 🕵️‍♂️
 ---
 
 ## [3️⃣ How to Investigate Silicon-Level Shadow AI Mesh Takeover via JTAG and BSDL? 🔍⚡(AD) 🛠️](https://github.com/AndriiKempa/BLEIOT/discussions/7)
