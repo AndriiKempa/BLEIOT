@@ -28,12 +28,19 @@ Learn the **foundational architecture** of Shadow AI networks.
 
 ---
 
-## 2️⃣ [How to Discover Field Observations and Environmental Signal Patterns 🔍](https://github.com/AndriiKempa/BLEIOT/discussions/11)
+## 2️⃣ [Field Operations and Targeted Environmental Networks 🔍](https://github.com/AndriiKempa/BLEIOT/discussions/11)
 
-Step-by-step methodology to **collect and analyze environmental data**:  
-- Detect **BLE and IoT anomalies** in public spaces. 📶  
-- Map **synchronized signals, non-connectable devices, and RF patterns**. 📡  
-- Document field measurements for **forensic reproducibility**. 📝  
+This section focuses on **Stasi-style programs and special service operations** designed to create a network of compromised devices around a target. The primary objective is to **establish permanent barriers** using a distributed network of nodes that execute tasks and **assume operational responsibility**, while the organizers of the mining infrastructure remain detached. ⚠️💻
+
+**Key Concepts:**
+
+- **Provocation & Destabilization:** Various operations are performed to destabilize the target, creating an **unstable and dangerous period** around them, making even official agencies perceive such tactics as "normal security procedures." 🌀⚡  
+- **Distributed Responsibility:** Infected nodes act autonomously, performing mining and operational tasks. The human operators are **unaware they are contributing to a permanent mining infrastructure**. 👥🔗  
+- **Use of Civilians:** Operations often involve **children, minors, or ordinary civilians** as part of orchestrated tasks, further masking the network’s true purpose. 🧒👫  
+- **Network Creation:** BLE and IoT devices are exploited to form **a continuous, persistent computational and observational network**, surrounding the target. 📶📡  
+- **Forensic Implications:** Even seemingly harmless field tasks contribute to the network’s expansion, ensuring the system’s scalability and stealth while providing **plausible deniability** for participants. 📝
+
+> **Purpose Note:** While operations appear as isolated provocations, they are part of a coordinated system creating **permanent, autonomous nodes** contributing to the mining infrastructure. The network hides behind human activities and social normalization, making detection and attribution extremely difficult. 🕵️‍♂️💣
 
 ---
 
