@@ -46,7 +46,7 @@ Analyze **distributed malicious infrastructure**:
 
 ---
 
-## 4️⃣ Step-by-Step Forensic and Legal Analysis of IoT Device Misuse in Public Infrastructure 🧠  
+## [4️⃣ How to work a Self-Sustaining Silicon-Level AI Mesh and Its Distributed Computational Economy? 🔍⚡(AE)🧠](https://github.com/AndriiKempa/BLEIOT/discussions/8)
 
 Conduct **systematic audits** combining technical and legal perspectives:  
 - Assess **unauthorized IoT device activation and control**. ⚠️  
