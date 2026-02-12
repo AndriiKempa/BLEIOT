@@ -29,17 +29,14 @@ Learn the **foundational architecture** of Shadow AI networks.
 ---
 
 ## 2️⃣ [Field Operations and Targeted Environmental Networks 🔍](https://github.com/AndriiKempa/BLEIOT/discussions/11)
-This section examines Stasi-style operational models aimed at building a persistent network of compromised devices around a target. The objective is to establish permanent distributed barriers, where nodes execute tasks and absorb responsibility, while mining infrastructure organizers remain detached. ⚠️💻
+This section examines Stasi-style operational models aimed at forming a persistent network of compromised devices around a target, where distributed nodes execute tasks and absorb responsibility while core organizers remain detached. ⚠️💻  
 
-**Key Concepts:**
-
-- **Provocation & Destabilization:** Coordinated actions create an unstable environment around the target, normalizing such tactics as “security measures.” 🌀  
-- **Distributed Responsibility:** Infected nodes perform operational and mining tasks, while participants remain unaware of infrastructure expansion. 👥🔗  
-- **Use of Civilians:** Children, minors, and ordinary civilians may be indirectly involved, masking the network’s structure. 🧒  
-- **Network Creation:** BLE and IoT devices form a continuous computational and observational perimeter. 📶📡  
-- **Forensic Implications:** Isolated field actions cumulatively expand a scalable, deniable infrastructure. 📝  
-
-**Purpose:** Apparent provocations function as coordinated node deployment, embedding autonomous mining infrastructure within normalized social activity. 🕵️‍♂️
+**Key Points:**  
+- Provocation and destabilization create an artificially unsafe environment normalized as “security procedure.” 🌀  
+- Distributed responsibility: nodes act autonomously; participants often unaware of infrastructure expansion. 👥🔗  
+- Civilians, including minors, may be indirectly involved, masking operational intent. 🧒  
+- BLE/IoT exploitation forms a continuous computational and observational perimeter. 📶  
+- Plausible deniability and stealth ensure scalability and difficult attribution. 🕵️‍♂️  
 ---
 
 ## [3️⃣ How to Investigate Silicon-Level Shadow AI Mesh Takeover via JTAG and BSDL? 🔍⚡(AD) 🛠️](https://github.com/AndriiKempa/BLEIOT/discussions/7)
