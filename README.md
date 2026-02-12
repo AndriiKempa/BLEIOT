@@ -1,4 +1,4 @@
-# 1️⃣ Covert Blockchain Mining Through Infected Mobile Devices and IoT Infrastructure.⚡ How a Zero-Electricity-Cost Model Could Work and How to Identify the Security Risks
+# 📘 BLEIOT Research Guide: Shadow AI Mesh Operations ⚡
 
 **Scientific & Technical Research Initiative in BLE, IoT, Embedded Systems, and Hardware Security** 🛰️🔬  
 
@@ -20,7 +20,7 @@ BLEIOT presents a **step-by-step guide to investigating decentralized AI mesh in
 
 ---
 
-## 1️⃣ [How to Understand the Conceptual Model of Decentralized AI Mesh Infrastructure ⚡](https://github.com/AndriiKempa/BLEIOT/discussions/10)
+## 1️⃣ [Covert Blockchain Mining Through Infected Mobile Devices and IoT Infrastructure.⚡ How a Zero-Electricity-Cost Model Could Work and How to Identify the Security Risks⚡](https://github.com/AndriiKempa/BLEIOT/discussions/10)
 
 Learn the **foundational architecture** of Shadow AI networks.  
 - Explore **node interconnectivity**, mesh orchestration, and cognitive influence layers. 🧠  
