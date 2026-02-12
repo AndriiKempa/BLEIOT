@@ -37,7 +37,7 @@ Step-by-step methodology to **collect and analyze environmental data**:
 
 ---
 
-## [3️⃣ How to Investigate Botnet Architecture and Mobile Node Hypothesis 🛠️](https://github.com/AndriiKempa/BLEIOT/discussions/7)
+## [3️⃣ How to Investigate Silicon-Level Shadow AI Mesh Takeover via JTAG and BSDL? 🔍⚡(AD) 🛠️](https://github.com/AndriiKempa/BLEIOT/discussions/7)
 
 Analyze **distributed malicious infrastructure**:  
 - Trace human-operated mobile nodes in IoT botnets. 🚶‍♂️📱  
