@@ -14,26 +14,75 @@ We publish **analytical articles, technical documentation, and investigative res
 
 ---
 
-## 📚 Research Series: Shadow AI in Blockchain 🕵️‍♂️
+# 📘 BLEIOT Research Guide: Shadow AI Mesh Operations ⚡
 
-1️⃣ **How to Understand the Conceptual Model of Decentralized AI Mesh Infrastructure** ⚡  
-
-2️⃣ **Discover Field Observations and Environmental Signal Patterns** 🔍  
-
-3️⃣ **Investigate Botnet Architecture and Mobile Node Hypothesis** 🛠️  
-
-4️⃣ **Step-by-Step Forensic and Legal Analysis of IoT Device Misuse in Public Infrastructure** 🧠  
-
-5️⃣ **Historical Evolution: From Cold War Electromagnetic Research to Modern Cyber-Physical Systems** 🌐  
-
-6️⃣ **Industrialization of Embedded Debug Interfaces (IEEE 1149.1 / Nexus 5001)** 🔧  
-
-7️⃣ **Analyze Hardware-Level Security Risks in Firmware-Agnostic Architectures** 📡  
+BLEIOT presents a **step-by-step guide to investigating decentralized AI mesh infrastructure** in IoT networks, with forensic and OSINT emphasis. 🛰️🔍
 
 ---
 
-> Each section acts as a **forensic guide**, linking theory to practical **OSINT investigation**, enabling researchers to **detect, monitor, and analyze Shadow AI mesh operations**. ⚡🕵️‍♂️  
+## 1️⃣ How to Understand the Conceptual Model of Decentralized AI Mesh Infrastructure ⚡  
 
+Learn the **foundational architecture** of Shadow AI networks.  
+- Explore **node interconnectivity**, mesh orchestration, and cognitive influence layers. 🧠  
+- Identify **hardware, firmware, and silicon-level interactions**. 🔧  
+
+---
+
+## 2️⃣ How to Discover Field Observations and Environmental Signal Patterns 🔍  
+
+Step-by-step methodology to **collect and analyze environmental data**:  
+- Detect **BLE and IoT anomalies** in public spaces. 📶  
+- Map **synchronized signals, non-connectable devices, and RF patterns**. 📡  
+- Document field measurements for **forensic reproducibility**. 📝  
+
+---
+
+## 3️⃣ How to Investigate Botnet Architecture and Mobile Node Hypothesis 🛠️  
+
+Analyze **distributed malicious infrastructure**:  
+- Trace human-operated mobile nodes in IoT botnets. 🚶‍♂️📱  
+- Examine **communication patterns and synchronization mechanisms**. 🔗  
+- Evaluate evidence for **operational control and exploitation vectors**. 🕵️‍♂️  
+
+---
+
+## 4️⃣ Step-by-Step Forensic and Legal Analysis of IoT Device Misuse in Public Infrastructure 🧠  
+
+Conduct **systematic audits** combining technical and legal perspectives:  
+- Assess **unauthorized IoT device activation and control**. ⚠️  
+- Document **regulatory and compliance violations** in public and government spaces. 📜  
+- Translate findings into **forensic reports suitable for legal proceedings**. 🛡️  
+
+---
+
+## 5️⃣ How to Explore Historical Evolution: From Cold War Electromagnetic Research to Modern Cyber-Physical Systems 🌐  
+
+Trace **technological lineage and operational evolution**:  
+- Map Cold War research to contemporary **AI-driven cyber-physical systems**. 🏭  
+- Understand **legacy electromagnetic methods influencing modern IoT networks**. ⚡  
+- Link historical techniques to **current Shadow AI orchestration practices**. 🔬  
+
+---
+
+## 6️⃣ How to Investigate Industrialization of Embedded Debug Interfaces (IEEE 1149.1 / Nexus 5001) 🔧  
+
+Examine **hardware-level backdoors and debugging standards**:  
+- Identify **JTAG, SWD, and Nexus interfaces** on IoT devices. 🔍  
+- Analyze **firmware-independent mesh onboarding mechanisms**. 🖥️  
+- Assess risks of **industrial-scale exploitation of embedded interfaces**. 🏭  
+
+---
+
+## 7️⃣ How to Analyze Hardware-Level Security Risks in Firmware-Agnostic Architectures 📡  
+
+Perform **comprehensive security assessment**:  
+- Detect **vulnerabilities at the silicon and boundary scan layer**. ⚠️  
+- Map **distributed AI influence across heterogeneous devices**. 🤖  
+- Provide **mitigation recommendations for firmware-agnostic deployments**. 🛡️  
+
+---
+
+> This guide functions as a **central hub** for BLEIOT research, combining **forensic investigation, OSINT methods, and hardware-level analysis**, enabling **security researchers and regulators** to uncover Shadow AI operations in decentralized IoT networks. 🌐🛰️  
 ---
 
 ### 🗂️ Navigation Tips
