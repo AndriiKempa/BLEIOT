@@ -28,7 +28,7 @@ Learn the **foundational architecture** of Shadow AI networks.
 
 ---
 
-## 2️⃣ [Field Operations and Targeted Environmental Networks 🔍](https://github.com/AndriiKempa/BLEIOT/discussions/11)
+## 2️⃣ [Field Operations and Targeted Environmental Networks. How it is working 🔍](https://github.com/AndriiKempa/BLEIOT/discussions/11)
 This section examines Stasi-style operational models aimed at forming a persistent network of compromised devices around a target, where distributed nodes execute tasks and absorb responsibility while core organizers remain detached. ⚠️💻  
 
 **Key Points:**  
