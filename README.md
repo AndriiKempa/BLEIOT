@@ -39,8 +39,15 @@ This section examines Stasi-style operational models aimed at forming a persiste
 - Plausible deniability and stealth ensure scalability and difficult attribution. 🕵️‍♂️  
 ---
 
-## 3️⃣ [How to Detect and Defend: Systematic Signal Anomalies in BLE Mesh Bot Systems — Advanced Logs Analysis & Counter-Pressure Strategies 📡🤖](https://github.com/AndriiKempa/BLEIOT/discussions/11)
+## 3️⃣ [How to Detect and Defend: Systematic Signal Anomalies in BLE Mesh Bot Systems — Advanced Logs Analysis & Counter-Pressure Strategies 📡🤖](https://github.com/AndriiKempa/BLEIOT/discussions/30)
 
+🔍 Observed Anomalies (Post-Refusal)
+
+Immediately following my refusal, I began identifying systematic patterns that intersect with blockchain ecosystems and distributed networks ⛓️:
+
+📡 Technical SIGINT Patterns: Recorded signaling patterns inconsistent with FCC norms, including non-connectable device activity and zero-interval radio broadcasts 📻.
+🌐 Distributed Infrastructure: Evidence suggests the use of mobile devices as involuntary network nodes (similar to botnet-style architectures like the 911 S5 precedent) 🤖.
+⚡ Systematic Pressure: Identifying signs of specialized surveillance tools and psychological harassment intended to discredit my professional standing 🛡️.
 
 
 ---
